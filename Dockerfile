@@ -1,5 +1,5 @@
 # parameters
-ARG REPO_NAME="myFirstProject"
+ARG REPO_NAME="my-project"
 ARG DESCRIPTION="My first DTProject"
 ARG MAINTAINER="Morgan Robbins (mrobbins@magicinc.org)"
 # pick an icon from: https://fontawesome.com/v4.7.0/icons/
